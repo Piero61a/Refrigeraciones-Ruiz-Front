@@ -1,0 +1,9 @@
+.label{
+    @apply text-xl font-sans font-bold !important;
+}
+.inputWrapper{
+    @apply border-primary_input_border mt-8 !important;
+}
+.inputWrapperError{
+    @apply border-error_color mt-8 !important;
+}
